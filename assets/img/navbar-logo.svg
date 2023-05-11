@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 269.86 269.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #b2b2b2;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #717070;
+      }
+
+      .cls-4 {
+        stroke: #3c3c3b;
+        stroke-miterlimit: 4;
+        stroke-width: 4px;
+      }
+
+      .cls-5 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-6 {
+        stroke: #575756;
+        stroke-miterlimit: 4;
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <g id="header">
+    <g id="logo">
+      <g id="logo-2">
+        <g id="Ellipse_1" data-name="Ellipse 1">
+          <circle class="cls-2" cx="134.93" cy="134.93" r="134.92"/>
+        </g>
+        <path id="Tracé_271" data-name="Tracé 271" class="cls-4" d="M32.86,49.71s85.95,72.57,115.85,55.26c29.91-17.32,10.72-70.01,10.72-70.01,0,0,33.98,46.6,23.58,82.63-10.4,36.02,42.96-43.42,42.96-43.42,0,0,25.02,155.62-148.88,85.45-173.9-70.17,81.68,104.97,81.68,104.97"/>
+        <circle class="cls-6" cx="134.93" cy="134.91" r="129.84"/>
+        <g id="Ellipse_2" data-name="Ellipse 2">
+          <ellipse class="cls-1" cx="190.5" cy="145.72" rx="8.65" ry="6.49" transform="translate(-48 171.02) rotate(-43.47)"/>
+          <ellipse class="cls-5" cx="190.5" cy="145.72" rx="7.92" ry="5.76" transform="translate(-48 171.02) rotate(-43.47)"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3">
+          <ellipse class="cls-1" cx="160.7" cy="127.74" rx="8.65" ry="6.49" transform="translate(-44.46 120.53) rotate(-36.47)"/>
+          <ellipse class="cls-3" cx="160.7" cy="127.74" rx="7.93" ry="5.76" transform="translate(-44.46 120.53) rotate(-36.47)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
